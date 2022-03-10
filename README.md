@@ -32,6 +32,10 @@
 
 implemented code formatting for typescript and javascript files, currently only formats in christmas tree ordering (order by length).
 
+### 1.1.0
+
+Added message for deactivation.
+Fixed some variables names and added some comments for better code clarity.
 ### 1.0.0
 
 Official release of Santa Importer.
